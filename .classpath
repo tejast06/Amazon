@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/selenium/client-combined-3.141.59.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Twilio/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jackson-annotations-2.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jackson-core-2.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jackson-databind-2.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jackson-datatype-jsr310-2.11.3.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jjwt-api-0.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jjwt-impl-0.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/jjwt-jackson-0.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/Twilio/twilio-8.1.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
